@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.twitter-small-icon{
+    color: #1D9BF0;
+    font-size: 30px;
+}
+#twitterHomePage h1{
+    color: #0f1419;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 84px;
+    font-family: Verdana, Roboto, Helvetica, Arial, sans-serif;
+}
+#twitterHomePage h2{
+    color: #0f1419;
+    font-size: 31px;
+    font-weight: 700;
+    line-height: 36px;
+    font-family: Verdana, Roboto, Helvetica, Arial, sans-serif;
+}
+#twitterHomePage h3{
+    color:#0f1419;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 20px;
+    font-family: Verdana, Roboto, Helvetica, Arial, sans-serif;
+}
+#twitterHomePage h6{
+    color: #0f1419;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 20px;
+    font-family: Verdana, Roboto, Helvetica, Arial, sans-serif;
+    text-align: center;
+    width: 300px;
+    }
+#twitterHomePage p{
+    color: #536471;
+    font-size: 11px;
+    font-weight: 700;
+    line-height: 12px;
+    font-family: Verdana, Roboto, Helvetica, Arial, sans-serif;
+    height: 60px;
+    width: 300px;
+}
+#twitterHomePage button{
+    height: 40px;
+    width: 300px;
+    border-color: #DADCE0;
+    border-radius: 20px;
+    border-style: solid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: Verdana, Roboto, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+
+}
+.button-icon{
+    height: 20px;
+    width: 20px;
+}
+.twitter-bg{
+    background-image: url(twitter-bg.png);
+    height: 100vh;
+}
+
+.twitter-big-icon{
+    color: #FFFFFF;
+    font-size: 400px;
+}
+
+#footerSection  a{
+    font-size: 13px;
+    color: #536471;
+}
+#footerSection h6{
+    font-size: 13px;
+    color: #536471;
+    text-align: center;
+    width: 100%;
+}
+
+
+.sign-in-button{
+    color: #1D9BF0;
+    font-weight: 500;
+}
+
+#footerSection {
+        text-align: center;
+}
+.sign-upButton{
+    background-color: #1D9BF0; 
+    color: white;
+    font-weight: 700;
+}
+.white-bg{
+    background-color: #FFFFFF;
+}
